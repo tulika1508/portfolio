@@ -32,6 +32,8 @@ import tripguide from "./tripguide.png";
 import sitemaster from "./company/sitemaster.png";
 import csforall from "./company/csforall.jpeg";
 import inkyy from "./inkyy.jpg";
+import iiest from "./iiest.png";
+import national from "./national.jpeg";
 
 export {
   logo,
@@ -65,4 +67,6 @@ export {
   sitemaster,
   csforall,
   inkyy,
+  iiest,
+  national,
 };

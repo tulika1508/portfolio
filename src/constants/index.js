@@ -26,6 +26,8 @@ import {
   sitemaster,
   csforall,
   inkyy,
+  iiest,
+  national,
 } from "../assets";
 
 export const navLinks = [
@@ -33,9 +35,14 @@ export const navLinks = [
     id: "about",
     title: "About",
   },
+  
   {
     id: "work",
     title: "Experience",
+  },
+  {
+    id: "education",
+    title: "Education",
   },
   {
     id: "contact",
@@ -44,7 +51,7 @@ export const navLinks = [
 ];
 
 const services = [
-  {
+  {                
     title: "Web Development",
     icon: web,
   },
@@ -139,7 +146,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Feb 2024- May 2024",
     points: [
-      "Provided 60+ optimized solutions to Data Structures and Algorithms problems in C++..",
+      "Provided 60+ optimized solutions to Data Structures and Algorithms problems in C++.",
       "Resolved contest problems and clarified doubts regarding CS fundamentals.",
       "Explained Object-oriented programming language concepts comprehensively.",
       
@@ -222,4 +229,44 @@ const projects = [
   
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+const educations = [
+  {
+    title: "Bachelor of Technology(B.Tech)",
+    company_name: "IIEST SHIBPUR",
+    icon: iiest,
+    iconBg: "#FFFFFF",
+    date: "Dec 2021 - May 2025(expected)",
+    points: [
+      "CGPA(Till 5th semester): 8.89/10.0",
+      "Relevant coursework: Data Structures, OOPs",
+      "Subjects learned: Operating Systems, DBMS ",
+    ],
+  },
+  {
+    title: "Higher Secondary",
+    company_name: "National English School,Kolkata (C.I.S.C.E)",
+    icon: national,
+    iconBg: "#FFFFFF",
+    date: "2020",
+    points: [
+      "Score: 92.4% with 99 in Computer Science",
+      
+      
+    ],
+  },
+  {
+    title: "Secondary",
+    company_name: "National English School,Kolkata (C.I.S.C.E)",
+    icon: national,
+    iconBg: "#FFFFFF",
+    date: "2018",
+    points: [
+      "Score: 93% with 99 in Computer Science",
+      
+      
+    ],
+  },
+  
+];
+
+export { services, technologies, experiences, testimonials, projects,educations };
