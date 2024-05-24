@@ -3,6 +3,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* Ensure you have these classes or adjust based on your existing CSS structure */
+
+/* Ensure you have these classes or adjust based on your existing CSS structure */
+
+.ml-4 {
+  margin-left: 6rem; /* Adjust as needed */
+}
+
+.rounded-dp-big {
+  display:inline-flex;
+  width: 250px; /* Adjust the size as needed */
+  height: 250px; /* Adjust the size as needed */
+  border-radius: 60%; /* This makes the image circular */
+  object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
+
 
 * {
   margin: 0;
@@ -18,7 +35,9 @@
   padding-bottom: 100px;
   display: block;
 }
-
+.boxi{
+  display: inline-flex;
+}
 .black-gradient {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(
