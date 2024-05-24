@@ -6,9 +6,11 @@
 /* Ensure you have these classes or adjust based on your existing CSS structure */
 
 /* Ensure you have these classes or adjust based on your existing CSS structure */
-
+.mt-6{
+   margin-left:3rem;
+}
 .ml-4 {
-  margin-left: 4rem; /* Adjust as needed */
+  margin-left: 3rem; /* Adjust as needed */
 }
 
 .rounded-dp-big {
@@ -19,8 +21,9 @@
   object-fit: cover; /* Ensures the image covers the area without distortion */
 }
 .display{
-  
-  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
