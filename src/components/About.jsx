@@ -38,7 +38,8 @@ const ServiceCard = ({ index, title, icon }) => (
 const About = () => {
   return (
     <>
-      <motion.div variants={textVariant()}>
+    <div align="justify" >
+    <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>About me</p>
         <h2 className={styles.sectionHeadText}>Introduction</h2>
       </motion.div>
@@ -51,6 +52,8 @@ const About = () => {
         JavaScript, and expertise in frameworks like React, and Node.js. I'm a quick learner and collaborate closely with clients to
         create productive, scalable and user-friendly applications. I enjoy tackling challenges, whether in development or data structures.
       </motion.p>
+    </div>
+      
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
