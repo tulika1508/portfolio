@@ -11,7 +11,7 @@
    
 </div>
 
-## 📋 <a name="table">Table of Contents:-</a>
+## 📋 <a name="table">Contents:-</a>
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -21,8 +21,7 @@
 
 ## <a name="introduction">🤖 Introduction:-</a>
 
-This is a personal portfolio website highlighting my skills, personal projects and work experiences. Would love to connect to bring ideas to life!
-
+This is my personal portfolio website highlighting my skills, personal projects and work experiences and education. Would love to connect to bring ideas to life!
 
 ## <a name="tech-stack">⚙️ Tech Stack used:-</a>
 
