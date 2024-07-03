@@ -133,22 +133,22 @@ const experiences = [
     iconBg: "#3b0054",
     date: "May 2024 - present",
     points: [
-      "Developing and maintaining web and mobile applications using React.js and React Native.",
+      "Developing and maintaining web application using React.js and.",
       "Collaborating with cross-functional teams including designers, and other developers to create high-quality products.",
-      "Assisting in the optimization and performance tuning of mobile applications.",
+      "Assisting in the optimization and performance tuning of application.",
       "Documenting code and processes for future reference.",
     ],
   },
   {
-    title: "Teaching Assistant(DSA)",
-    company_name: "CS For All",
-    icon: csforall,
-    iconBg: "#FFFFFF",
-    date: "Feb 2024- May 2024",
+    title: "Software Tester",
+    company_name: "SiteMaster",
+    icon: sitemaster,
+    iconBg: "#3b0054",
+    date: "April 2024- May 2024",
     points: [
-      "Provided 60+ optimized solutions to Data Structures and Algorithms problems in C++.",
-      "Resolved contest problems and clarified doubts regarding CS fundamentals.",
-      "Explained Object-oriented programming language concepts comprehensively.",
+      "Delivered high quality solutions through meticulous manual testing methodologies.",
+      "Designed over 50 test scenarios and test cases for the mobile application.",
+    
       
     ],
   },
