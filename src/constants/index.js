@@ -133,7 +133,7 @@ const experiences = [
     iconBg: "#3b0054",
     date: "May 2024 - present",
     points: [
-      "Developing and maintaining web application using React.js and.",
+      "Developing and maintaining web application using React.js.",
       "Collaborating with cross-functional teams including designers, and other developers to create high-quality products.",
       "Assisting in the optimization and performance tuning of application.",
       "Documenting code and processes for future reference.",
